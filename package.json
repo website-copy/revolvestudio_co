@@ -16,7 +16,7 @@
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
     "react-transition-group": "^4.2.2",
-    "three": "^0.107.0",
+    "three": "^0.137.0",
     "virtual-scroll": "^1.5.1"
   },
   "devDependencies": {
